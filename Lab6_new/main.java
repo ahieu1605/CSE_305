@@ -1,8 +1,7 @@
-package Lab6;
 
 import java.util.*;
 
-public class Main {
+public class main {
 
     public static void main(String[] args) {
 
@@ -27,7 +26,7 @@ public class Main {
                     request request3 = creator1.createRequest();
                     break;
             }
-
+            break;
         }
     }
 }
